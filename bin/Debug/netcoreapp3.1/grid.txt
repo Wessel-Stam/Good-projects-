@@ -1,0 +1,100 @@
+A , You see parts of the cold cave but there is no entrance or exit here, cave, cold
+C , You see parts of the cold cave but there is no or exit here, cave, cold
+X , The castle is hotter than anything you felt this journey, kasteel , hot
+X , You feel the extreme heat become hotter hotter, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+A , You arrive at the end of the castle.. your journey ends here.. Inen is blocking your way, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+A , You feel the extreme heat become hotter, kasteel , hot
+A , You are in some part of the castle.. it is pretty confusing!, kasteel , hot
+X , You are in some part of the castle.. it is pretty confusing!, kasteel , hot
+A , The cave system here feels pretty cold, cave, cold
+X , You feel really small compared to the castle.. but you stay determined, kasteel , hot
+A , The castle is hotter than anything you felt this journey, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+A , You continue walking this path through the castle... you already see your destination, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+A , You feel the extreme heat become hotter, kasteel , hot
+X , Are you... lost in this castle?, kasteel , hot
+A , You go deeper into the cave, cave, cold
+A , The cave here feels rather.. wet, cave, cold
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+A , You are surrounded with pools of lava with only a path ahead... this is starting to become a bad idea, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+X , You notice a pool of lava in this castle... it would seem smart to not go into there, kasteel , hot
+A , You feel the extreme heat become hotter, kasteel , hot
+X , You are at the edge of the castle.. it's not comfortable here, kasteel , hot
+A , You feel something wet ontop of your head... it's only a raindrop fortunately, cave, cold
+A , The cave is rather hummid, cave, cold
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+Z ,  , The gates of the castle seem to open up... somebody is expecting you	, kasteel , hot
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+X , The castle looks dangerous and the you can feel the heat from all the way here, kasteel , hot
+A ,  , You arrive at the edge of the forest... even though rains pours down from the sky.. you feel safe,  forest , wet
+A , You notice a mirror in the cave and look into it... It's just you!, cave, cold
+A , The cave is rather wet.. uncomfortable for sure, cave, cold
+X , The insides here are dark, cave, cold
+A , The sun is still shining brightly, spawn, sunny
+A , The sun is still out in these grasslands , spawn , sunny
+A , The sun is still out fortunately , spawn , sunny
+A , Still at the grasslands.. you would see the castle's gates up north.. you still need the keys before entering there , spawn , sunny
+A ,  , spawn , sunny
+A , You are in the forest.. the weather is starting to go downhill,  forest , wet
+A , Rain is clashing down.. you are becoming quite wet,  forest , wet
+A , The cave kinda ends here, cave, cold
+C , You notice something glinstering in the dark... approaching it you find a key, cave, cold
+C , Going deeper into this cave, cave, cold
+A , You enter the giant hole that is the cave entrance.. it's pretty dark and you find a torch, cave, cold
+A , You notice the cave in the distance up west , spawn , sunny
+A , You notice Wessel standing besides the chest.. he still hasn't moved, spawn , sunny
+A , You notice the forest up east.. it's pretty thicc , spawn , sunny
+A , The only sound is the rain pouring down on the ground.. the trees are completely quiet ,  forest , wet
+A , You find a sign.. it reads 'Don't swim in the river'. You don't see a river,  forest , wet
+A , You are at the edge of the forest.. nothing here,  forest , wet
+A , You don't find anything here besides the end of the cave, cave, cold
+C , You hear a small rock fall...  is this cave stable?, cave, cold
+A , There should be a key somewhere around here, cave, cold
+C , You enter the big entrance of the cave.. you can't see much, cave, cold
+A , It's rather relaxing in this area.. it probably won't be like this for too long , spawn , sunny
+A , It's rather relaxing in this area.. it probably won't be like this for too long , spawn , sunny
+A , You see tons of trees together.. this is the forest , spawn , sunny
+A , You walk besides a river.. the rain is clashing into it,  forest , wet
+A , You follow the river.. it's quite a beautiful sight,  forest , wet
+A , You notice something glinstering in the rain... You find a key,  forest , wet
+A , You see the edge of the cave.. you won't be able to go further west, cave, cold
+A , You feel like you are pretty far from your destination.. it's starting to become colder, cave, cold
+X , You see a hole where you could fit in to enter or leave, cave, cold
+A , You see the cave up ahead west , spawn , sunny
+A , The grasslands are really relaxing.. you feel comfortable , spawn , sunny
+A , You see the forest up eat with a river in the distance , spawn , sunny
+A , Entering the forest you would see the river right besides you.. it flows deeper into the woods,  forest , wet
+A , You swim into the water.. this is pretty stupid but the key could be here , water , wet
+A , You swim into the water.. there is no key here but you gain more wetness , water , wet
+A , You are the end of the forest.. there wouldn't be a key further east,  forest , wet
+A , You are the edge of the cave.. only walls will greet you furhter, cave, cold
+C , You feel claustrophobic.. the cave is starting to become narrower, cave, cold
+A , You notice the massive cave up west.. this doesn't really seem like an entrance , spawn , sunny
+A , The sun is warming you up a bit.. it feels nice , spawn , sunny
+A , The wind blows through your hair.. if you have any , spawn , sunny
+A , You see a river flowing in the distance.. this could be the forest, spawn , sunny
+A , Swimming into the water here.. it is pretty cold , water , wet
+A , Maybe diving down here is a possibility to find the key.. it ain't here , water , wet
+A , You are slowly starting to think that the key isn't in the water , water , wet
+A , you are the edge of the river.. following further with the water could be proven dangerous, water , wet
+A , You find a sign at the end of this cave... it reads 'You probably went through this whole cave.. the key is four up and 1 east. Such a idiot that it needs help from a sign ~Oscar', cave, cold
+A , You find a really small mine cave.. you could probably enter from here west , spawn , sunny
+A , You are coming closer to the cave , spawn , sunny
+A , You are at the end of the grasslands.. the key is probably not here , spawn , sunny
+A , You are at the end of the grasslands... you see a river flowing east of you , spawn , sunny
+A , You find the river.. swimming in here wasn't the best idea , water , wet
+A , The water feels rather cold and it is raining.. not the best situation , water , wet
+A , You could get really sick from this.. not cool dude , water , wet
+A , You arrive at a little island in the middle of this river.. you climb up and notice something east of you,  forest , wet
+A , You are the edge of the forest.. nothing seems to be here besides a sign. It reads 'You really like exploring huh? Sorry mate.. nothing here. ~Danny',  forest , wet

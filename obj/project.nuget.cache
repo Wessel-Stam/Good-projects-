@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtfEimGOre7ltFwvxXEAtAguFmdRmNJR41UMeGedKMajlgbnEhEdY2Br9IdeJgm35uji7cy6zXysIr5XUXEvzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WesSt\\source\\repos\\textAdventureGameGit\\DefeatTheLeerplichtAmbtenaar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WesSt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\WesSt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\WesSt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\WesSt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
